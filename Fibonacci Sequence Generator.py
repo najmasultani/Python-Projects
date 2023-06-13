@@ -1,7 +1,3 @@
-'''
-Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
-'''
-
 # Project Title: Fibonacci Sequence Generator
 # Description: This program generates the Fibonacci sequence up to a specified number or the Nth number.
 
