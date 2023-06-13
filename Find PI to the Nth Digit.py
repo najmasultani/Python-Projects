@@ -26,8 +26,7 @@ def pi_calculator(n, decimal):
     return round(sum, decimal)
 
 
-n = 1000
-# Number of iterations for calculating π
+n = 1000 # I choose 1000, you can choose a bigger number.
 decimal = int(input("Please enter the number of decimal places to calculate for π: "))
 
 print(pi_calculator(n, decimal))
